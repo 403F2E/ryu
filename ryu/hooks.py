@@ -17,7 +17,7 @@
 
 import os
 import sys
-from setuptools.command import ScriptWriter
+from setuptools.command.easy_install import ScriptWriter
 from ryu import version
 
 
